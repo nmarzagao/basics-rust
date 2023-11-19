@@ -1,5 +1,10 @@
-mod list;
-use crate::list::List;
+use crate::todo_list::{ 
+    task::Task, 
+    list::List, 
+};
+
+mod todo_list;
+
 
 // add a basic interface and done!
 
