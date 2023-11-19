@@ -1,2 +1,7 @@
-# basics-rust
-Covering the basics with rust
+# Basic Rust
+
+### Projects
+
+- Dice Roller
+- Todo List
+
