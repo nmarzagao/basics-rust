@@ -5,7 +5,6 @@ use crate::todo_list::{
 
 mod todo_list;
 
-
 // add a basic interface and done!
 
 fn main() {
